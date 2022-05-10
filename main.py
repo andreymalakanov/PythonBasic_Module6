@@ -33,6 +33,6 @@ while True:
     print(f'Угадал! Верный ответ {N}! Затрачено попыток {try_count}!')
     break
   elif question == 2:
-    N = N + k
+    N += k
   elif question == 3:
-    N = N - k
+    N -= k
