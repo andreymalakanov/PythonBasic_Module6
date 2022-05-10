@@ -26,3 +26,4 @@ while balance < 500000:
   balance += save
   print('Не хватает денег.')
 print('Денег достаточно. Баланс =', balance)
+
